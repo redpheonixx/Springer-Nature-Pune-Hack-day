@@ -10,7 +10,8 @@ Background Information
 <br>
 The manuscripts submitted by authors have many images inside it. These images can be either colour or grey or both. As part of the business services, the author submitted images will be processed by the publisher before publication. The processing of images differs for color and grey scale images. The identification of this helps to further automate their processing.
 <br>
-Use Case I
+Use Case
+<br>
 Verify whether the image is grey or color along with the percentage of confidence
 <br>
 ------------------------------------------------------------------------------------------------------------------------------
